@@ -6,6 +6,8 @@
 - 📫 How to reach me: send me a message!
 - ⚡ Fun fact: I'm also a musician and a bit of a gamer
 
+GitLab: https://gitlab.com/jurjenverbruggen
+
 ### Language and Tools
 
 <image align="left" alt="C#" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png?raw=true" width="26px"></image>
