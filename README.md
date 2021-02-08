@@ -1,7 +1,7 @@
 ### Hi there, I'm Jurjen 👋
 
-- 🔭 I’m currently working on an internship at EULYNX/ProRail
-- 📚 Fontys Student
+- 🔭 Working on Fontys Delta projects!
+- 📚 Studying Software at Fontys ICT
 - 🌱 I’m currently learning lots of different technologies
 - 📫 How to reach me: send me a message!
 - ⚡ Fun fact: I'm also a musician and a bit of a gamer
